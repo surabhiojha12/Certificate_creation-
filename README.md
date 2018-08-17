@@ -16,17 +16,17 @@ User Interface
 ---------------
 * #### Details Page
 
-![home](index.png?raw=true "Optional Title")
+![home](index.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 * #### Certificate page
 
-![cert](certificate.png?raw=true "Optional Title")
+![cert](certificate.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 * #### Pdf
 
-![pdf](cert_pdf.png?raw=true "Optional Title")
+![pdf](cert_pdf.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 
